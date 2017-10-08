@@ -14647,3 +14647,322 @@ INFO: [ app_end ] --START--
 INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
 INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
 
+[ 2017-10-08T18:49:04+08:00 ] ::1 /ThinkPHPCRUD/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:1.1011s ]
+SQL: SELECT * FROM `user` ORDER BY id asc  [ RunTime:0.0780s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015001s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 29 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 30 行.
+NOTIC: [8] Use of undefined constant birth - assumed 'birth' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+NOTIC: [8] Use of undefined constant createtime - assumed 'createtime' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 34 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 29 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 30 行.
+NOTIC: [8] Use of undefined constant birth - assumed 'birth' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+NOTIC: [8] Use of undefined constant createtime - assumed 'createtime' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 34 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 29 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 30 行.
+NOTIC: [8] Use of undefined constant birth - assumed 'birth' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+NOTIC: [8] Use of undefined constant createtime - assumed 'createtime' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 34 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 29 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 30 行.
+NOTIC: [8] Use of undefined constant birth - assumed 'birth' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+NOTIC: [8] Use of undefined constant createtime - assumed 'createtime' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 34 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 29 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 30 行.
+NOTIC: [8] Use of undefined constant birth - assumed 'birth' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+NOTIC: [8] Use of undefined constant createtime - assumed 'createtime' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.082005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.082005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.017001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.031002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.031002s ]
+
+[ 2017-10-08T18:49:13+08:00 ] ::1 /ThinkPHPCRUD/index.php/Home/User/userInfo?id=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0330s ]
+SQL: SELECT * FROM `user` WHERE `id` = 8 LIMIT 1   [ RunTime:0.1060s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\6053f5dc80423e60fafc4b66dd1e9944.php 第 16 行.
+NOTIC: [8] Use of undefined constant 修改用户 - assumed '修改用户' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\6053f5dc80423e60fafc4b66dd1e9944.php 第 16 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\6053f5dc80423e60fafc4b66dd1e9944.php 第 22 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\6053f5dc80423e60fafc4b66dd1e9944.php 第 22 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\6053f5dc80423e60fafc4b66dd1e9944.php 第 26 行.
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\6053f5dc80423e60fafc4b66dd1e9944.php 第 28 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\6053f5dc80423e60fafc4b66dd1e9944.php 第 33 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\6053f5dc80423e60fafc4b66dd1e9944.php 第 35 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\6053f5dc80423e60fafc4b66dd1e9944.php 第 41 行.
+NOTIC: [8] Use of undefined constant birth - assumed 'birth' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\6053f5dc80423e60fafc4b66dd1e9944.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.093006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.093006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-10-08T18:49:17+08:00 ] ::1 /ThinkPHPCRUD/index.php/Home/User/update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\ThinkPHPCRUD\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\ThinkPHPCRUD\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `user` SET `username`='jimmy12',`password`='2342',`birth`='2017-10-03' WHERE `id` = 8 [ RunTime:0.0830s ]
+
+[ 2017-10-08T18:49:17+08:00 ] ::1 /ThinkPHPCRUD/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `user` ORDER BY id asc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 29 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 30 行.
+NOTIC: [8] Use of undefined constant birth - assumed 'birth' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+NOTIC: [8] Use of undefined constant createtime - assumed 'createtime' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 34 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 29 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 30 行.
+NOTIC: [8] Use of undefined constant birth - assumed 'birth' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+NOTIC: [8] Use of undefined constant createtime - assumed 'createtime' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 34 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 29 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 30 行.
+NOTIC: [8] Use of undefined constant birth - assumed 'birth' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+NOTIC: [8] Use of undefined constant createtime - assumed 'createtime' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 34 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 29 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 30 行.
+NOTIC: [8] Use of undefined constant birth - assumed 'birth' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+NOTIC: [8] Use of undefined constant createtime - assumed 'createtime' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 34 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 29 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 30 行.
+NOTIC: [8] Use of undefined constant birth - assumed 'birth' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+NOTIC: [8] Use of undefined constant createtime - assumed 'createtime' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-08T18:51:48+08:00 ] ::1 /ThinkPHPCRUD/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1030s ]
+SQL: SELECT * FROM `user` ORDER BY id asc  [ RunTime:0.0710s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 29 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 30 行.
+NOTIC: [8] Use of undefined constant birth - assumed 'birth' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+NOTIC: [8] Use of undefined constant createtime - assumed 'createtime' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 34 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 29 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 30 行.
+NOTIC: [8] Use of undefined constant birth - assumed 'birth' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+NOTIC: [8] Use of undefined constant createtime - assumed 'createtime' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 34 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 29 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 30 行.
+NOTIC: [8] Use of undefined constant birth - assumed 'birth' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+NOTIC: [8] Use of undefined constant createtime - assumed 'createtime' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 34 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 29 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 30 行.
+NOTIC: [8] Use of undefined constant birth - assumed 'birth' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+NOTIC: [8] Use of undefined constant createtime - assumed 'createtime' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 34 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 29 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 30 行.
+NOTIC: [8] Use of undefined constant birth - assumed 'birth' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+NOTIC: [8] Use of undefined constant createtime - assumed 'createtime' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-10-08T18:51:54+08:00 ] ::1 /ThinkPHPCRUD/index.php/Home/User/insert
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\6053f5dc80423e60fafc4b66dd1e9944.php 第 16 行.
+NOTIC: [8] Undefined variable: row D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\6053f5dc80423e60fafc4b66dd1e9944.php 第 16 行.
+NOTIC: [8] Use of undefined constant 新增用户 - assumed '新增用户' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\6053f5dc80423e60fafc4b66dd1e9944.php 第 16 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\6053f5dc80423e60fafc4b66dd1e9944.php 第 22 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\6053f5dc80423e60fafc4b66dd1e9944.php 第 26 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\6053f5dc80423e60fafc4b66dd1e9944.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\6053f5dc80423e60fafc4b66dd1e9944.php 第 41 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-10-08T18:51:58+08:00 ] ::1 /ThinkPHPCRUD/index.php/Home/User/update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0670s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\ThinkPHPCRUD\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\ThinkPHPCRUD\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined index: id D:\wamp\www\ThinkPHPCRUD\Application\Home\Controller\UserController.class.php 第 20 行.
+SQL: INSERT INTO `user` (`username`,`password`,`birth`,`createtime`) VALUES ('123','456',NULL,'2017-10-08') [ RunTime:0.0520s ]
+
+[ 2017-10-08T18:51:58+08:00 ] ::1 /ThinkPHPCRUD/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `user` ORDER BY id asc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 29 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 30 行.
+NOTIC: [8] Use of undefined constant birth - assumed 'birth' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+NOTIC: [8] Use of undefined constant createtime - assumed 'createtime' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 34 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 29 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 30 行.
+NOTIC: [8] Use of undefined constant birth - assumed 'birth' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+NOTIC: [8] Use of undefined constant createtime - assumed 'createtime' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 34 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 29 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 30 行.
+NOTIC: [8] Use of undefined constant birth - assumed 'birth' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+NOTIC: [8] Use of undefined constant createtime - assumed 'createtime' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 34 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 29 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 30 行.
+NOTIC: [8] Use of undefined constant birth - assumed 'birth' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+NOTIC: [8] Use of undefined constant createtime - assumed 'createtime' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 34 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 29 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 30 行.
+NOTIC: [8] Use of undefined constant birth - assumed 'birth' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+NOTIC: [8] Use of undefined constant createtime - assumed 'createtime' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 34 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Use of undefined constant username - assumed 'username' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 29 行.
+NOTIC: [8] Use of undefined constant password - assumed 'password' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 30 行.
+NOTIC: [8] Use of undefined constant birth - assumed 'birth' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+NOTIC: [8] Use of undefined constant createtime - assumed 'createtime' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\wamp\www\ThinkPHPCRUD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+

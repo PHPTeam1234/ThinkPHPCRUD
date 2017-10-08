@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <title>用户列表</title>
-  <link rel="stylesheet" type="text/css" href="/CRUD/Public/BootStrap/css/bootstrap.min.css">
-  <script type="text/javascript" src="/CRUD/Public/BootStrap/js/jquery.min.js"></script>
-  <script type="text/javascript" src="/CRUD/Public/BootStrap/js/bootstrap.min.js"></script>
-  <link href="/CRUD/Public/Bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
-  <link href="/CRUD/Public/Datetimepicker/css/bootstrap-datetimepicker.min.css" rel="stylesheet" media="screen">
+  <link rel="stylesheet" type="text/css" href="/ThinkPHPCRUD/Public/BootStrap/css/bootstrap.min.css">
+  <script type="text/javascript" src="/ThinkPHPCRUD/Public/BootStrap/js/jquery.min.js"></script>
+  <script type="text/javascript" src="/ThinkPHPCRUD/Public/BootStrap/js/bootstrap.min.js"></script>
+  <link href="/ThinkPHPCRUD/Public/Bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+  <link href="/ThinkPHPCRUD/Public/Datetimepicker/css/bootstrap-datetimepicker.min.css" rel="stylesheet" media="screen">
 </head>
 <body>
 
@@ -17,7 +17,7 @@
     </div>
     <div>
 
-      <form action="/CRUD/index.php/Home/User/update" method="post">
+      <form action="/ThinkPHPCRUD/index.php/Home/User/update" method="post">
 
         <?php if(empty($row[id]) != true): ?><input type='hidden' name='id' value='<?php echo ($row[id]); ?>'><?php endif; ?>
 
@@ -50,10 +50,10 @@
   </div>
 </div>
 
-<script type="text/javascript" src="/CRUD/Public/BootStrap/js/jquery.min.js" charset="UTF-8"></script>
-<script type="text/javascript" src="/CRUD/Public/Bootstrap/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="/CRUD/Public/Datetimepicker/js/bootstrap-datetimepicker.js" charset="UTF-8"></script>
-<script type="text/javascript" src="/CRUD/Public/Datetimepicker/js/locales/bootstrap-datetimepicker.zh-CN.js" charset="UTF-8"></script>
+<script type="text/javascript" src="/ThinkPHPCRUD/Public/BootStrap/js/jquery.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="/ThinkPHPCRUD/Public/Bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/ThinkPHPCRUD/Public/Datetimepicker/js/bootstrap-datetimepicker.js" charset="UTF-8"></script>
+<script type="text/javascript" src="/ThinkPHPCRUD/Public/Datetimepicker/js/locales/bootstrap-datetimepicker.zh-CN.js" charset="UTF-8"></script>
 <script type="text/javascript">
   var dd = new Date();
   $('.form_date').datetimepicker({
